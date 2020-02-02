@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NBSClock</string>
+    <string name="first_alarm_time">点击设置第一次提醒时间</string>
+    <string name="interval_time">间隔时间（小时）</string>
+    <string name="set_alarm">设置提醒</string>
+    <string name="dismiss_alarm">取消设置</string>
+    <string name="alarm_content">提醒内容</string>
+</resources>
